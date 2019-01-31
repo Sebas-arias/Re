@@ -17,6 +17,7 @@ public void setSueldoBase(int s) {
         
     public static void main(String[] args) {
        System.out.println("resta");
+        System.out.println("segundo cambio");
     }
     
 }
